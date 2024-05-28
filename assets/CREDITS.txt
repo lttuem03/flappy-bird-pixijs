@@ -1,0 +1,2 @@
+Sprites and sound effects:
+https://github.com/samuelcust/flappy-bird-assets
